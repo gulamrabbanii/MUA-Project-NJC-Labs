@@ -1,6 +1,5 @@
 # MUA-Project-NJC-Labs
 
-update repo
 ## Description:
 ### API Raml Spec:
 #### American Flight REST API:
